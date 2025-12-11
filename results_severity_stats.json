@@ -1,0 +1,33 @@
+{
+  "task": "severity_stats",
+  "timestamp": "2025-12-09T20:48:42.301885",
+  "total_plants_analyzed": 494,
+  "severity_distribution": [
+    {
+      "level": "Critical",
+      "count": 273,
+      "percentage": 55.26
+    },
+    {
+      "level": "Mild",
+      "count": 89,
+      "percentage": 18.02
+    },
+    {
+      "level": "Moderate",
+      "count": 71,
+      "percentage": 14.37
+    },
+    {
+      "level": "Severe",
+      "count": 61,
+      "percentage": 12.35
+    }
+  ],
+  "summary": {
+    "most_common_severity": "Critical",
+    "most_common_count": 273,
+    "unique_severity_levels": 4,
+    "plants_without_severity": 0
+  }
+}

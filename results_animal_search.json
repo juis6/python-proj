@@ -1,0 +1,3092 @@
+{
+  "task": "search_animals",
+  "timestamp": "2025-12-09T18:42:21.884348",
+  "search_animal": "dogs",
+  "total_plants_checked": 494,
+  "dangerous_plants_found": 165,
+  "dangerous_plants": [
+    {
+      "scientific_name": "Abrus precatorius",
+      "common_name": "",
+      "family": "Fabaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Tremors",
+        "High Heart Rate",
+        "Fever",
+        "Shock",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Achillea millefolium",
+      "common_name": "",
+      "family": "Asteraceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Diuretic",
+        "Vomiting",
+        "Diarrhea",
+        "Dermatitis",
+        "Hypersalivation",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Adenium obesum",
+      "common_name": "",
+      "family": "Apocynaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Anorexia",
+        "Depression",
+        "Cardiac Arrhythmias",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Aesculus spp.",
+      "common_name": "",
+      "family": "Sapindaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Hyperexcitability",
+        "Dilated Pupils",
+        "Coma",
+        "Convulsions",
+        "Incoordination"
+      ]
+    },
+    {
+      "scientific_name": "Aglaonema modestum",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Allium ampeloprasum",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Anemia",
+        "Weakness",
+        "High Heart Rate",
+        "Panting"
+      ]
+    },
+    {
+      "scientific_name": "Allium cepa",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Anemia",
+        "Weakness",
+        "High Heart Rate",
+        "Panting"
+      ]
+    },
+    {
+      "scientific_name": "Allium sativum",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Anemia",
+        "Blood In Urine",
+        "Weakness",
+        "High Heart Rate",
+        "Panting"
+      ]
+    },
+    {
+      "scientific_name": "Allium schoenoprasum",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Anemia",
+        "Blood In Urine",
+        "Weakness",
+        "High Heart Rate",
+        "Panting"
+      ]
+    },
+    {
+      "scientific_name": "Alocasia spp.",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "birds"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Aloe barbadensis",
+      "common_name": "",
+      "family": "Asphodelaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Lethargy",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Aloe vera",
+      "common_name": "",
+      "family": "Asphodelaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Lethargy",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Aloysia triphylla",
+      "common_name": "",
+      "family": "Verbenaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Colic"
+      ]
+    },
+    {
+      "scientific_name": "Amaryllis spp.",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Diarrhea",
+        "Abdominal Pain",
+        "Hypersalivation",
+        "Anorexia",
+        "Tremors"
+      ]
+    },
+    {
+      "scientific_name": "Ammi majus",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "birds"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Anthemis cotula",
+      "common_name": "",
+      "family": "Asteraceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Dermatitis",
+        "Vomiting",
+        "Diarrhea",
+        "Anorexia",
+        "Allergic Reactions"
+      ]
+    },
+    {
+      "scientific_name": "Anthemis nobilis",
+      "common_name": "",
+      "family": "Asteraceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Dermatitis",
+        "Vomiting",
+        "Diarrhea",
+        "Anorexia",
+        "Allergic Reactions"
+      ]
+    },
+    {
+      "scientific_name": "Anthurium scherzerianum",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Apocynum spp.",
+      "common_name": "",
+      "family": "Apocynaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Slow Heart Rate",
+        "Weakness"
+      ]
+    },
+    {
+      "scientific_name": "Aralia spinosa",
+      "common_name": "",
+      "family": "Araliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Skin Irritation",
+        "Oral Irritation",
+        "Hypersalivation",
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Arisaema triphyllum",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Artemisia dracunculus",
+      "common_name": "",
+      "family": "Asteraceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Arum maculatum",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Arum Palaestinum",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Asclepias spp.",
+      "common_name": "",
+      "family": "Asclepiadaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Weakness",
+        "Anorexia",
+        "Diarrhea",
+        "Seizures",
+        "Difficulty Breathing",
+        "Weak Pulse",
+        "Dilated Pupils",
+        "Kidney Failure",
+        "Liver Failure",
+        "Coma",
+        "Respiratory Paralysis",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Asparagus densiflorus",
+      "common_name": "",
+      "family": "Asparagaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Dermatitis",
+        "Vomiting",
+        "Abdominal Pain",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Begonia spp.",
+      "common_name": "",
+      "family": "Begoniaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Kidney Failure",
+        "Vomiting",
+        "Hypersalivation"
+      ]
+    },
+    {
+      "scientific_name": "Borago officinalis",
+      "common_name": "",
+      "family": "Boraginceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Brassaia actinophylla",
+      "common_name": "",
+      "family": "Araliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Brunfelsia spp.",
+      "common_name": "",
+      "family": "Solanaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Tremors",
+        "Seizures",
+        "Diarrhea",
+        "Vomiting",
+        "Hypersalivation",
+        "Lethargy",
+        "Incoordination",
+        "Coughing"
+      ]
+    },
+    {
+      "scientific_name": "Buxus spp.",
+      "common_name": "",
+      "family": "Buxaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Respiratory Failure",
+        "Seizures"
+      ]
+    },
+    {
+      "scientific_name": "Caesalpinia pulcherrima",
+      "common_name": "",
+      "family": "Fabaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Caladium spp.",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "reptiles",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Calamansi",
+      "common_name": "",
+      "family": "Rutaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Cannabis sativa",
+      "common_name": "",
+      "family": "Cannabaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Depression",
+        "Vomiting",
+        "Incoordination",
+        "Lethargy",
+        "Hyperexcitability",
+        "Salivaton",
+        "Dilated Pupils",
+        "Low Blood Pressure",
+        "Low Body Temperature",
+        "Seizure",
+        "Coma",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Carum carvi",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Celastrus scandens",
+      "common_name": "",
+      "family": "Celastraceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Weakness",
+        "Convulsions",
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Chenopodium ambrosioides",
+      "common_name": "",
+      "family": "Amaranthaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "birds"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Chenopodium botrys",
+      "common_name": "",
+      "family": "Amaranthaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Anorexia",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Chrysanthemum spp.",
+      "common_name": "",
+      "family": "Compositae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Hypersalivation",
+        "Incoordination",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Cicuta spp.",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Seizures",
+        "Tremors",
+        "Extreme Stomach Pain",
+        "Dilated Pupils",
+        "Fever",
+        "Bloat",
+        "Respiratory Depression",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Citrus aurantifolia",
+      "common_name": "",
+      "family": "Rutaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Citrus Aurantium",
+      "common_name": "",
+      "family": "Rutaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Citrus paradisi",
+      "common_name": "",
+      "family": "Rutaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Citrus sinensis",
+      "common_name": "",
+      "family": "Rutaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Clematis spp.",
+      "common_name": "",
+      "family": "Ranunculaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Hypersalivation",
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Clivia spp.",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Salvation",
+        "Diarrhea",
+        "Convulsions",
+        "Low Blood Pressure",
+        "Tremors",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Clusia major",
+      "common_name": "",
+      "family": "Clusiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting"
+      ]
+    },
+    {
+      "scientific_name": "Colchicum autumnale",
+      "common_name": "",
+      "family": "Colchicaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Vomiting",
+        "Diarrhea",
+        "Shock",
+        "Multi-Organ Damage",
+        "Bone Marrow Suppression"
+      ]
+    },
+    {
+      "scientific_name": "Coleus amboinicus",
+      "common_name": "",
+      "family": "Lamiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Anorexia"
+      ]
+    },
+    {
+      "scientific_name": "Colocasia spp.",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Conium maculatum",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Agitation",
+        "Tremors",
+        "Drooling",
+        "Diarrhea",
+        "Paralysis",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Convallaria majalis",
+      "common_name": "",
+      "family": "Asparagaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Cardiac Arrhythmias",
+        "Low Blood Pressure",
+        "Disorientation",
+        "Coma",
+        "Seizures"
+      ]
+    },
+    {
+      "scientific_name": "Cordyline australis",
+      "common_name": "",
+      "family": "Asparagaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Anorexia",
+        "Hypersalivation",
+        "Dilated Pupils"
+      ]
+    },
+    {
+      "scientific_name": "Cordyline terminalis",
+      "common_name": "",
+      "family": "Asparagaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Anorexia",
+        "Hypersalivation",
+        "Dilated Pupils"
+      ]
+    },
+    {
+      "scientific_name": "Crassula arborescens",
+      "common_name": "",
+      "family": "Crassulaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Nausea",
+        "Retching"
+      ]
+    },
+    {
+      "scientific_name": "Crassula argentea",
+      "common_name": "",
+      "family": "Crassulaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Incoordination"
+      ]
+    },
+    {
+      "scientific_name": "Cycas spp.",
+      "common_name": "",
+      "family": "Cycadaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Dark Stools",
+        "Jaundice",
+        "Increased Thirst",
+        "Bloody Diarrhea",
+        "Bruising",
+        "Liver Failure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Cyclamen spp.",
+      "common_name": "",
+      "family": "Primulaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Hypersalivation",
+        "Vomiting",
+        "Diarrhea",
+        "Seizures",
+        "Cardiac Arrhythmias",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Cymbopogon citratus",
+      "common_name": "",
+      "family": "Poaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Difficulty Breathing",
+        "Weakness",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Cymopterus spp.",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Photosensitivity",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Dahlia spp.",
+      "common_name": "",
+      "family": "Asteraceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Delphinium spp.",
+      "common_name": "",
+      "family": "Ranunculaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Colic",
+        "Hypersalivation",
+        "Tremors",
+        "Stiffness",
+        "Weakness",
+        "Recumbency",
+        "Convulsions",
+        "Cardiac Failure",
+        "Respiratory Paralysis",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Dianthus spp.",
+      "common_name": "",
+      "family": "Caryophyllaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Dieffenbachia amoena",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Dieffenbachia picta",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Digitalis purpurea",
+      "common_name": "",
+      "family": "Plantaginaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "birds",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Cardiac Arrhythmias",
+        "Vomiting",
+        "Diarrhea",
+        "Weakness",
+        "Cardiac Failure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Dracaena spp.",
+      "common_name": "",
+      "family": "Agavaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Anorexia",
+        "Hypersalivation",
+        "Dilated Pupils",
+        "Abdominal Pain",
+        "Increased Heart Rate",
+        "Vomiting",
+        "Depression",
+        "Inappetence",
+        "Drooling",
+        "Incoordination",
+        "Weakness"
+      ]
+    },
+    {
+      "scientific_name": "Epipremnum aureum",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Erigeron speciosus",
+      "common_name": "",
+      "family": "Asteraceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Erythrostemon gilliesii",
+      "common_name": "",
+      "family": "Fabaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Diarrhea",
+        "Difficulty Swallowing",
+        "Incoordination"
+      ]
+    },
+    {
+      "scientific_name": "Eucalyptus obliqua",
+      "common_name": "",
+      "family": "Myrtaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Hypersalivation",
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Weakness"
+      ]
+    },
+    {
+      "scientific_name": "Euonymus atropurpurea",
+      "common_name": "",
+      "family": "Celastraceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Abdominal Pain",
+        "Weakness",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Euonymus occidentalis",
+      "common_name": "",
+      "family": "Celastraceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Abdominal Pain",
+        "Weakness",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Eupatorium capillifolium",
+      "common_name": "",
+      "family": "Asteraceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Increased Urination",
+        "Vomiting",
+        "Diarrhea",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Euphorbia pulcherrima",
+      "common_name": "",
+      "family": "Euphorbiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Euphorbia tirucalli",
+      "common_name": "",
+      "family": "Euphorbiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting"
+      ]
+    },
+    {
+      "scientific_name": "Fagopyrum spp.",
+      "common_name": "",
+      "family": "Polygonaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Ficus benjamina",
+      "common_name": "",
+      "family": "Moraceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Dermal Irritation",
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Ficus spp.",
+      "common_name": "",
+      "family": "Moraceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Gardenia jasminoides",
+      "common_name": "",
+      "family": "Rubiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Hives"
+      ]
+    },
+    {
+      "scientific_name": "Gladiolus spp.",
+      "common_name": "",
+      "family": "Iridaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Hypersalivation",
+        "Vomiting",
+        "Drooling",
+        "Lethargy",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Gloriosa superba",
+      "common_name": "",
+      "family": "Colchicaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Hypersalivation",
+        "Vomiting",
+        "Diarrhea",
+        "Shock",
+        "Kidney Failure",
+        "Liver Damage",
+        "Bone Marrow Suppression"
+      ]
+    },
+    {
+      "scientific_name": "Gypsophila elegans",
+      "common_name": "",
+      "family": "Caryophyllaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Vomiting"
+      ]
+    },
+    {
+      "scientific_name": "Hedera helix",
+      "common_name": "",
+      "family": "Araliaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Abdominal Pain",
+        "Hypersalivation",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Helleborus niger",
+      "common_name": "",
+      "family": "Ranunculaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Drooling",
+        "Abdominal Pain",
+        "Diarrhea",
+        "Colic",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Heracleum maximum",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Hippeastrum spp.",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Salvation",
+        "Diarrhea",
+        "Convulsions",
+        "Low Blood Pressure",
+        "Tremors",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Hosta plantaginea",
+      "common_name": "",
+      "family": "Liliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Humulus lupulus",
+      "common_name": "",
+      "family": "Cannabaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Panting",
+        "High Body Temperature",
+        "Seizures",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Hyacinthus orientalis",
+      "common_name": "",
+      "family": "Asparagaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Tremors",
+        "Allergic Reactions"
+      ]
+    },
+    {
+      "scientific_name": "Hydrangea arborescens",
+      "common_name": "",
+      "family": "Hydrangeaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Hypericum perforatum",
+      "common_name": "",
+      "family": "Hypericaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Photosensitivity",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Ilex aquifolium",
+      "common_name": "",
+      "family": "Aquifoliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Ilex opaca",
+      "common_name": "",
+      "family": "Aquifoliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Ipomoea spp.",
+      "common_name": "",
+      "family": "Convolvulaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Hallucinations"
+      ]
+    },
+    {
+      "scientific_name": "Iris spp.",
+      "common_name": "",
+      "family": "Iridaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Hypersalivation",
+        "Vomiting",
+        "Drooling",
+        "Lethargy",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Juglans nigra",
+      "common_name": "",
+      "family": "Juglandaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "fish",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Tremors",
+        "Seizures",
+        "Incoordination",
+        "Laminitis",
+        "Colic"
+      ]
+    },
+    {
+      "scientific_name": "Kalanchoe spp.",
+      "common_name": "",
+      "family": "Crassulaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Kalmia angustifolia",
+      "common_name": "",
+      "family": "Ericaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Weakness",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Kalmia latifolia",
+      "common_name": "",
+      "family": "Ericaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Weakness",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Kalmia polifolia",
+      "common_name": "",
+      "family": "Ericaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Weakness",
+        "Cardiac Failure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Lantana camara",
+      "common_name": "",
+      "family": "Verbenaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Labored Breathing",
+        "Weakness",
+        "Liver Failure"
+      ]
+    },
+    {
+      "scientific_name": "Lathyrus latifolius",
+      "common_name": "",
+      "family": "Fabaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Weakness",
+        "Lethargy",
+        "Pacing",
+        "Head Pressing",
+        "Tremors",
+        "Seizures",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Laurus nobilis",
+      "common_name": "",
+      "family": "Lauraceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Intestinal Obstruction"
+      ]
+    },
+    {
+      "scientific_name": "Lavendula angustifolia",
+      "common_name": "",
+      "family": "Lamiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses"
+      ],
+      "symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Inappetence"
+      ]
+    },
+    {
+      "scientific_name": "Leucothoe spp.",
+      "common_name": "",
+      "family": "Ericaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Cardiovascular Collapse",
+        "Hypersalivation",
+        "Weakness",
+        "Coma",
+        "Low Blood Pressure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Levisticum officinale",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Diuretic"
+      ]
+    },
+    {
+      "scientific_name": "Ligustrum japonicum",
+      "common_name": "",
+      "family": "Oleaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Vomiting",
+        "Incoordination",
+        "Increased Heart Rate",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Ligustrum vulgare",
+      "common_name": "",
+      "family": "Oleaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Drooling",
+        "Abdominal Pain",
+        "Diarrhea",
+        "Colic",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Lobelia cardinalis",
+      "common_name": "",
+      "family": "Campanulaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Depression",
+        "Diarrhea",
+        "Vomiting",
+        "Hypersalivation",
+        "Abdominal Pain",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Lycopersicon spp.",
+      "common_name": "",
+      "family": "Solanaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Hypersalivation",
+        "Inappetence",
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Weakness",
+        "Dilated Pupils",
+        "Slow Heart Rate"
+      ]
+    },
+    {
+      "scientific_name": "Lyonia spp.",
+      "common_name": "",
+      "family": "Ericaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Cardiovascular Collapse",
+        "Hypersalivation",
+        "Weakness",
+        "Coma",
+        "Low Blood Pressure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Macadamia integrifolia",
+      "common_name": "",
+      "family": "Proteaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Depression",
+        "Weakness",
+        "Vomiting",
+        "Tremors",
+        "Hyperthermia",
+        "Muscular Stiffness",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Malus sylvestrus",
+      "common_name": "",
+      "family": "Rosaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses"
+      ],
+      "symptoms": [
+        "Dilated Pupils",
+        "Difficulty Breathing",
+        "Panting",
+        "Shock"
+      ]
+    },
+    {
+      "scientific_name": "Melia azedarach",
+      "common_name": "",
+      "family": "Meliaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Vomiting",
+        "Hypersalivation",
+        "Depression",
+        "Weakness",
+        "Seizures"
+      ]
+    },
+    {
+      "scientific_name": "Mentha spp.",
+      "common_name": "",
+      "family": "Lamiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Monstera deliciosa",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Nandina domestica",
+      "common_name": "",
+      "family": "Berberidaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Weakness",
+        "Incoordination",
+        "Seizures",
+        "Coma",
+        "Respiratory Failure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Narcissus spp.",
+      "common_name": "",
+      "family": "Amaryllidaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Salvation",
+        "Diarrhea",
+        "Convulsions",
+        "Low Blood Pressure",
+        "Tremors",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Nasturtium officinale",
+      "common_name": "",
+      "family": "Brassicaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Nerium oleander",
+      "common_name": "",
+      "family": "Apocynaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Drooling",
+        "Abdominal Pain",
+        "Diarrhea",
+        "Colic",
+        "Depression",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Nicotiana glauca",
+      "common_name": "",
+      "family": "Solanaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "fish",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Hyperexcitability",
+        "Depression",
+        "Vomiting",
+        "Incoordination",
+        "Paralysis",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Origanum majorana",
+      "common_name": "",
+      "family": "Lamiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Origanum vulgare",
+      "common_name": "",
+      "family": "Lamiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Oxalis spp.",
+      "common_name": "",
+      "family": "Oxalidaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Kidney Failure",
+        "Tremors",
+        "Hypersalivation"
+      ]
+    },
+    {
+      "scientific_name": "Paeonia officinalis",
+      "common_name": "",
+      "family": "Paeniaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "reptiles",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Pelargonium spp.",
+      "common_name": "",
+      "family": "Geraniaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Anorexia",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Petroselinum crispum",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Dermatitis",
+        "Photosensitivity"
+      ]
+    },
+    {
+      "scientific_name": "Philodendron spp.",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Phoradendron flavescens",
+      "common_name": "",
+      "family": "Santalaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Low Blood Pressure",
+        "Difficulty Breathing",
+        "Low Heart Rate"
+      ]
+    },
+    {
+      "scientific_name": "Pieris japonica",
+      "common_name": "",
+      "family": "Ericaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Cardiac Failure",
+        "Hypersalivation",
+        "Weakness",
+        "Coma",
+        "Low Blood Pressure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Podocarpus macrophyllus",
+      "common_name": "",
+      "family": "Podocarpacaea",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Podophyllum peltatum",
+      "common_name": "",
+      "family": "Berberidaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Lethargy",
+        "Panting",
+        "Coma",
+        "Skin Ulcers"
+      ]
+    },
+    {
+      "scientific_name": "Polyscias guilfoylei",
+      "common_name": "",
+      "family": "Araliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Dermatitis",
+        "Vomiting",
+        "Anorexia",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Portulaca oleracea",
+      "common_name": "",
+      "family": "Portulacaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Kidney Failure",
+        "Tremors",
+        "Hypersalivation"
+      ]
+    },
+    {
+      "scientific_name": "Primula vulgaris",
+      "common_name": "",
+      "family": "Primulaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Vomiting"
+      ]
+    },
+    {
+      "scientific_name": "Prunus spp.",
+      "common_name": "",
+      "family": "Rosaceae",
+      "severity": "Severe",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Dilated Pupils",
+        "Difficulty Breathing",
+        "Panting",
+        "Shock"
+      ]
+    },
+    {
+      "scientific_name": "Rangpur",
+      "common_name": "",
+      "family": "Rutaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Ranunculus spp.",
+      "common_name": "",
+      "family": "Ranunculaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression",
+        "Anorexia",
+        "Hypersalivation",
+        "Oral Ulcers",
+        "Incoordination"
+      ]
+    },
+    {
+      "scientific_name": "Rheum rhabarbarium",
+      "common_name": "",
+      "family": "Polygonaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Kidney Failure",
+        "Tremors",
+        "Hypersalivation"
+      ]
+    },
+    {
+      "scientific_name": "Rhododendron spp.",
+      "common_name": "",
+      "family": "Ericaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Hypersalivation",
+        "Weakness",
+        "Coma",
+        "Hypotension",
+        "CNS Depression",
+        "Cardiovascular Collapse",
+        "Death",
+        "Drooling",
+        "Loss Of Appetite",
+        "Colic",
+        "Depression",
+        "Loss Of Coordination",
+        "Stupor",
+        "Paralysis",
+        "Cardiac Arrhythmias"
+      ]
+    },
+    {
+      "scientific_name": "Ricinus communis",
+      "common_name": "",
+      "family": "Euphorbiaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Thirst",
+        "Vomiting",
+        "Diarrhea",
+        "Kidney Failure",
+        "Convulsions",
+        "Loss Of Appetite",
+        "Weakness",
+        "Colic",
+        "Trembling",
+        "Sweating",
+        "Incoordination",
+        "Difficulty Breathing",
+        "Depression",
+        "Fever",
+        "Coma",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Robinia pseudoacacia",
+      "common_name": "",
+      "family": "Fabaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "reptiles",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Anorexia",
+        "Weakness",
+        "Difficulty Breathing",
+        "Diarrhea",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Rumex spp.",
+      "common_name": "",
+      "family": "Polygonaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Kidney Failure",
+        "Tremors",
+        "Hypersalivation"
+      ]
+    },
+    {
+      "scientific_name": "Sansevieria trifasciata",
+      "common_name": "",
+      "family": "Asparagaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Schefflera spp.",
+      "common_name": "",
+      "family": "Araliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Scindapsus aureus",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Vomiting"
+      ]
+    },
+    {
+      "scientific_name": "Scindapsus pictus",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Senecio spp.",
+      "common_name": "",
+      "family": "Compositae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Liver Failure",
+        "Weight Loss",
+        "Weakness",
+        "Lethargy",
+        "Yawning",
+        "Incoordination",
+        "Icterus",
+        "Depression",
+        "Anorexia",
+        "Vomiting",
+        "Diarrhea",
+        "Ataxia"
+      ]
+    },
+    {
+      "scientific_name": "Spathiphyllum spp.",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Sphenosciadium capitellatum",
+      "common_name": "",
+      "family": "Apiaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Photosensitivity",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Strelitzia reginae",
+      "common_name": "",
+      "family": "Strelitziaceae",
+      "severity": "Moderate",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Drowsiness"
+      ]
+    },
+    {
+      "scientific_name": "Symplocarpus foetidus",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Syngonium podophyllum",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    },
+    {
+      "scientific_name": "Taxus spp.",
+      "common_name": "",
+      "family": "Taxaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "birds",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Tremors",
+        "Difficulty Breathing",
+        "Vomiting",
+        "Seizures",
+        "Cardiac Failure",
+        "Death",
+        "Dyspnea"
+      ]
+    },
+    {
+      "scientific_name": "Thevetia peruviana",
+      "common_name": "",
+      "family": "Apocynaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Slow Heart Rate"
+      ]
+    },
+    {
+      "scientific_name": "Tradescantia virginiana",
+      "common_name": "",
+      "family": "Commelinaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses"
+      ],
+      "symptoms": [
+        "Dermatitis",
+        "Vomiting",
+        "Diarrhea"
+      ]
+    },
+    {
+      "scientific_name": "Tulip spp.",
+      "common_name": "",
+      "family": "Liliaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "cats",
+        "dogs",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Depression",
+        "Diarrhea",
+        "Hypersalivation"
+      ]
+    },
+    {
+      "scientific_name": "Vinca rosea",
+      "common_name": "",
+      "family": "Apocynaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Low Blood Pressure",
+        "Depression",
+        "Tremors",
+        "Seizures",
+        "Coma",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Wisteria spp.",
+      "common_name": "",
+      "family": "Fabaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "fish",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Diarrhea",
+        "Depression"
+      ]
+    },
+    {
+      "scientific_name": "Yucca spp.",
+      "common_name": "",
+      "family": "Asparagaceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Liver Damage",
+        "Dermatitis"
+      ]
+    },
+    {
+      "scientific_name": "Zamia furfuracea",
+      "common_name": "",
+      "family": "Zamiaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Dark Stools",
+        "Jaundice",
+        "Increased Thirst",
+        "Bloody Diarrhea",
+        "Bruising",
+        "Liver Failure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Zamia integrifolia",
+      "common_name": "",
+      "family": "Zamiaceae",
+      "severity": "Critical",
+      "animals_affected": [
+        "dogs",
+        "cats"
+      ],
+      "symptoms": [
+        "Vomiting",
+        "Dark Stools",
+        "Jaundice",
+        "Increased Thirst",
+        "Bloody Diarrhea",
+        "Bruising",
+        "Liver Failure",
+        "Death"
+      ]
+    },
+    {
+      "scientific_name": "Zantedeschia aethiopica",
+      "common_name": "",
+      "family": "Araceae",
+      "severity": "Mild",
+      "animals_affected": [
+        "dogs",
+        "cats",
+        "horses",
+        "reptiles",
+        "small-mammals"
+      ],
+      "symptoms": [
+        "Oral Irritation",
+        "Drooling",
+        "Vomiting",
+        "Difficulty Swallowing"
+      ]
+    }
+  ]
+}

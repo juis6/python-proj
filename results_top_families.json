@@ -1,0 +1,38 @@
+{
+  "task": "top_families",
+  "timestamp": "2025-12-09T18:40:49.191076",
+  "total_plants_processed": 494,
+  "unique_families_count": 112,
+  "top_families": [
+    {
+      "rank": 1,
+      "family": "Fabaceae",
+      "count": 35,
+      "percentage": 7.09
+    },
+    {
+      "rank": 2,
+      "family": "Asteraceae",
+      "count": 35,
+      "percentage": 7.09
+    },
+    {
+      "rank": 3,
+      "family": "Araceae",
+      "count": 27,
+      "percentage": 5.47
+    },
+    {
+      "rank": 4,
+      "family": "Asparagaceae",
+      "count": 26,
+      "percentage": 5.26
+    },
+    {
+      "rank": 5,
+      "family": "Solanaceae",
+      "count": 21,
+      "percentage": 4.25
+    }
+  ]
+}
