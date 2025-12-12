@@ -1,0 +1,32 @@
+{
+  "task": "first_aid",
+  "timestamp": "2025-12-12T02:57:29.710280",
+  "plant_query": "lily",
+  "plant": {
+    "scientific_name": "Aconitum spp.",
+    "family": "Ranunculaceae",
+    "severity": "Moderate",
+    "severity_level": 2,
+    "affected_animals": [
+      "reptiles",
+      "fish",
+      "small-mammals"
+    ]
+  },
+  "symptoms": [
+    "Drooling",
+    "Vomiting",
+    "Diarrhea",
+    "Lethargy",
+    "Respiratory Depression",
+    "Dry Heaving"
+  ],
+  "urgency": "ВИСОКА - зверніться до ветеринара найближчим часом",
+  "first_aid_actions": [
+    "Промийте рот чистою водою. Спостерігайте за станом.",
+    "Не давайте їжу протягом 12-24 годин. Забезпечте доступ до води.",
+    "Запобігайте зневодненню. Давайте воду малими порціями.",
+    "Забезпечте спокій та тепло. Спостерігайте за станом."
+  ],
+  "emergency_info": "\nЕКСТРЕНІ КОНТАКТИ:\n- Ветеринарна клініка (цілодобово): знайдіть найближчу\n- При отруєнні: НЕ викликайте блювоту без консультації ветеринара\n- Візьміть зразок рослини до клініки для ідентифікації\n"
+}

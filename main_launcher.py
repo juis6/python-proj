@@ -291,8 +291,10 @@ def main():
     print("   2. Пошук небезпечних рослин для тварин (tasks/search_animals.py)")
     print("   3. Статистика рівнів небезпеки (tasks/severity_stats.py)")
     print("   4. Пошук рослин за симптомом (tasks/search_symptoms.py)")
-    print("   5. Запуск Java GUI (PlantGuide)")
-    print("   6. Створити папку Release")
+    print("   5. Перша допомога при отруєнні (tasks/first_aid.py)")
+    print("   6. Пошук безпечних альтернатив (tasks/safe_alternatives.py)")
+    print("   7. Запуск Java GUI (PlantGuide)")
+    print("   8. Створити папку Release")
 
     choice = input("\nОберіть дію (1-6) або Enter для завершення: ")
 
@@ -314,12 +316,20 @@ def main():
             [sys.executable, "tasks/search_symptoms.py"]
         )  # Запуск скрипту пошуку за симптомом
     elif choice == "5":
+        subprocess.run(
+            [sys.executable, "tasks/first_aid.py"]
+        )  # Запуск скрипту першої допомоги
+    elif choice == "6":
+        subprocess.run(
+            [sys.executable, "tasks/safe_alternatives.py"]
+        )  # Запуск скрипту пошуку безпечних альтернатив
+    elif choice == "7":
         if Path("PlantGuide.class").exists():
             log("Запуск Java GUI...")
             subprocess.run(["java", "PlantGuide", "plants.json"])
         else:
             log_error("Java клас не скомпільовано")
-    elif choice == "6":
+    elif choice == "8":
         create_release_folder()
     return 0
 

@@ -1,0 +1,77 @@
+{
+  "task": "safe_alternatives",
+  "timestamp": "2025-12-12T02:57:57.273259",
+  "query_plant": "aloe",
+  "user_animals": [
+    "dogs",
+    "cats"
+  ],
+  "dangerous_plant_info": {
+    "scientific_name": "Aloe barbadensis",
+    "family": "Asphodelaceae",
+    "severity": "Mild"
+  },
+  "alternatives_from_db": [],
+  "known_safe_plants": [
+    {
+      "name": "Spider Plant",
+      "family": "Asparagaceae",
+      "note": "Безпечна для котів та собак"
+    },
+    {
+      "name": "Boston Fern",
+      "family": "Nephrolepidaceae",
+      "note": "Безпечна, очищує повітря"
+    },
+    {
+      "name": "African Violet",
+      "family": "Gesneriaceae",
+      "note": "Безпечна, красиво цвіте"
+    },
+    {
+      "name": "Bamboo Palm",
+      "family": "Arecaceae",
+      "note": "Безпечна, тропічний вигляд"
+    },
+    {
+      "name": "Peperomia",
+      "family": "Piperaceae",
+      "note": "Безпечна, багато сортів"
+    },
+    {
+      "name": "Calathea",
+      "family": "Marantaceae",
+      "note": "Безпечна, декоративне листя"
+    },
+    {
+      "name": "Polka Dot Plant",
+      "family": "Acanthaceae",
+      "note": "Безпечна, яскраве листя"
+    },
+    {
+      "name": "Haworthia",
+      "family": "Asphodelaceae",
+      "note": "Безпечна альтернатива алое"
+    },
+    {
+      "name": "Christmas Cactus",
+      "family": "Cactaceae",
+      "note": "Безпечна, цвіте взимку"
+    },
+    {
+      "name": "Areca Palm",
+      "family": "Arecaceae",
+      "note": "Безпечна, очищує повітря"
+    },
+    {
+      "name": "Parlor Palm",
+      "family": "Arecaceae",
+      "note": "Безпечна для всіх тварин"
+    },
+    {
+      "name": "Swedish Ivy",
+      "family": "Lamiaceae",
+      "note": "Безпечна, легка у догляді"
+    }
+  ]
+}
