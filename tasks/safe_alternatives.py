@@ -166,30 +166,37 @@ def main():
     parser.add_argument(
         "--output", default="results_alternatives.json", help="Файл результатів"
     )
+    parser.add_argument("plant", nargs="?", help="Назва рослини")
+    parser.add_argument("animals", nargs="?", help="Тварини (через кому)")
 
     args = parser.parse_args()
 
-    print("\n" + "=" * 60)
-    print("   ПОШУК БЕЗПЕЧНИХ АЛЬТЕРНАТИВ РОСЛИНАМ")
-    print("=" * 60)
-
-    print("\nВведіть назву небезпечної рослини, яку хочете замінити:")
-    print("Приклади: lily, oleander, aloe, azalea, philodendron")
-    plant = input("\nРослина: ").strip()
+    if args.plant:
+        plant = args.plant
+    else:
+        print("\n" + "=" * 60)
+        print("   ПОШУК БЕЗПЕЧНИХ АЛЬТЕРНАТИВ РОСЛИНАМ")
+        print("=" * 60)
+        print("\nВведіть назву небезпечної рослини, яку хочете замінити:")
+        print("Приклади: lily, oleander, aloe, azalea, philodendron")
+        plant = input("\nРослина: ").strip()
 
     if not plant:
         log_error("Назва рослини не вказана")
         return 1
 
-    print("\nЯкі тварини є у вас вдома?")
-    print("Варіанти: dogs, cats, birds, reptiles, small mammals")
-    animals_input = input("Тварини (через кому): ").strip()
+    if args.animals:
+        user_animals = [a.strip() for a in args.animals.split(",")]
+    else:
+        print("\nЯкі тварини є у вас вдома?")
+        print("Варіанти: dogs, cats, birds, reptiles, small mammals")
+        animals_input = input("Тварини (через кому): ").strip()
 
-    if not animals_input:
-        animals_input = "dogs, cats"
-        print(f"Використовую за замовчуванням: {animals_input}")
-
-    user_animals = [a.strip() for a in animals_input.split(",")]
+        if not animals_input:
+            animals_input = "dogs, cats"
+            print(f"Використовую за замовчуванням: {animals_input}")
+        
+        user_animals = [a.strip() for a in animals_input.split(",")]
 
     results = find_safe_alternatives(plant, user_animals, args.input)
 
