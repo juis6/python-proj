@@ -200,18 +200,47 @@ public class PlantGuide extends JFrame {
             }
         });
 
+        JMenuItem alterSearchItem = new JMenuItem("Пошук безпечних альтернатив...");
+        alterSearchItem.addActionListener(e -> {
+            String plant = JOptionPane.showInputDialog(this, 
+                "Введіть назву небезпечної рослини, яку хочете замінити:\n\n" +
+                "Приклади: lily, oleander, aloe, azalea, philodendron",
+                "Пошук...", JOptionPane.QUESTION_MESSAGE);
+            String animal = JOptionPane.showInputDialog(this, 
+                "Введіть назву тварини (наприклад: dogs, cats, horses):", 
+                "Пошук загрози", JOptionPane.QUESTION_MESSAGE);
+            
+            // FIXED: Passing two arguments now works with varargs
+            if (plant != null && !plant.trim().isEmpty() && animal != null && !animal.trim().isEmpty()) {
+                runPythonScript("safe_alternatives.py", plant.trim(), animal.trim());
+            }
+        });
+
+        JMenuItem firstAid = new JMenuItem("Перша допомога при отруєнні рослиною");
+        firstAid.addActionListener(e -> {
+            String plant = JOptionPane.showInputDialog(this, 
+                "Введіть назву рослини, якою отруїлась тварина:\n\n" +
+                "Приклади: lily, oleander, aloe, tulip, ivy, azalea",
+                "Пошук за рослиною", JOptionPane.QUESTION_MESSAGE);
+            if (plant != null && !plant.trim().isEmpty()) {
+                runPythonScript("first_aid.py", plant.trim());
+            }
+        });
+
         analyticsMenu.add(symptomSearchItem);
 
         analyticsMenu.add(topFamiliesItem);
         analyticsMenu.add(severityItem);
         analyticsMenu.addSeparator();
         analyticsMenu.add(animalSearchItem);
+        analyticsMenu.add(alterSearchItem);
+        analyticsMenu.add(firstAid);
 
         menuBar.add(analyticsMenu);
         return menuBar;
     }
 
-    private void runPythonScript(String scriptName, String arg) {
+    private void runPythonScript(String scriptName, String... args) {
         new Thread(() -> {
             SwingUtilities.invokeLater(() -> {
                 detailsArea.setText("Запуск скрипта: " + scriptName + "...\nЧекайте...");
@@ -220,10 +249,21 @@ public class PlantGuide extends JFrame {
 
             try {
                 List<String> command = new ArrayList<>();
-                command.add("python3");
+                // Check OS for python command
+                String os = System.getProperty("os.name").toLowerCase();
+                if (os.contains("win")) {
+                    command.add("python");
+                } else {
+                    command.add("python3");
+                }
+                
                 command.add("tasks/" + scriptName);
-                if (arg != null) {
-                    command.add(arg);
+                
+                // Add all arguments
+                if (args != null) {
+                    for (String arg : args) {
+                        command.add(arg);
+                    }
                 }
 
                 ProcessBuilder pb = new ProcessBuilder(command);
