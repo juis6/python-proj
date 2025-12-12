@@ -189,6 +189,19 @@ public class PlantGuide extends JFrame {
             }
         });
 
+        JMenuItem symptomSearchItem = new JMenuItem("Пошук за симптомом...");
+        symptomSearchItem.addActionListener(e -> {
+            String symptom = JOptionPane.showInputDialog(this, 
+                "Введіть симптом для пошуку:\n\n" +
+                "Приклади: vomiting, diarrhea, pain, breathing, cardiac, skin",
+                "Пошук за симптомом", JOptionPane.QUESTION_MESSAGE);
+            if (symptom != null && !symptom.trim().isEmpty()) {
+                runPythonScript("search_symptoms.py", symptom.trim());
+            }
+        });
+
+        analyticsMenu.add(symptomSearchItem);
+
         analyticsMenu.add(topFamiliesItem);
         analyticsMenu.add(severityItem);
         analyticsMenu.addSeparator();

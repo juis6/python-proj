@@ -1,0 +1,399 @@
+{
+  "task": "search_symptoms",
+  "timestamp": "2025-12-12T02:16:42.295353",
+  "search_query": "pain",
+  "total_plants_checked": 494,
+  "plants_with_symptom": 193,
+  "related_symptoms": [
+    {
+      "symptom": "Abdominal Pain",
+      "count": 192
+    },
+    {
+      "symptom": "Extreme Stomach Pain",
+      "count": 183
+    }
+  ],
+  "matching_plants": [
+    {
+      "scientific_name": "Abutilon spp.",
+      "common_name": "Indian Mallows",
+      "family": "Malvaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Acacia berlandieri",
+      "common_name": "Guajillo",
+      "family": "Fabaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Acalypha ostryaefolia",
+      "common_name": "Hophornbeam Copperleaf",
+      "family": "Euphorbiaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Actaea pachypoda",
+      "common_name": "White Baneberry",
+      "family": "Ranunculaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Actinomeris spp.",
+      "common_name": "Crownbeard",
+      "family": "Asteraceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Aesculus hippocastanum",
+      "common_name": "Horse-Chestnut",
+      "family": "Sapindaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Agapanthus praecox",
+      "common_name": "Blue Lily",
+      "family": "Amaryllidaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Agave americana",
+      "common_name": "American Century Plant",
+      "family": "Asparagaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Agave lecheguilla",
+      "common_name": "Lechuguilla",
+      "family": "Asparagaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Aleurites moluccana",
+      "common_name": "Candlenut",
+      "family": "Euphorbiaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Aloe nobilis",
+      "common_name": "",
+      "family": "Asphodelaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Amaranthus spp.",
+      "common_name": "Pinks, Cactuses, And Allies",
+      "family": "",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Ambrosia dumosa",
+      "common_name": "Burrobush",
+      "family": "Asteraceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Amianthium muscaetoxicum",
+      "common_name": "Fly Poison",
+      "family": "Melanthiaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Ananas comosus",
+      "common_name": "Pineapple",
+      "family": "Bromeliaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Anemone spp.",
+      "common_name": "Buttercup Family",
+      "family": "RanunculaceaeJuss.",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Antirrhinum majus",
+      "common_name": "Snapdragon Complex",
+      "family": "Plantaginaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Apocynum cannabinum",
+      "common_name": "Hemp Dogbane",
+      "family": "Apocynaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Ardisia crenata",
+      "common_name": "Coralberry",
+      "family": "Primulaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    },
+    {
+      "scientific_name": "Areca catechu",
+      "common_name": "Areca Palm",
+      "family": "Arecaceae",
+      "severity": "Critical",
+      "matched_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain"
+      ],
+      "all_symptoms": [
+        "Extreme Stomach Pain",
+        "Abdominal Pain",
+        "Hyper Salivaton",
+        "Salivation",
+        "Skin Irritation",
+        "Difficulty Breathing",
+        "Cardiac Failure"
+      ]
+    }
+  ]
+}
